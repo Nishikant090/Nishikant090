@@ -12,25 +12,23 @@ Welcome to my GitHub profile! I'm passionate about learning, building cool tech,
 - ⚡ Fun fact: I enjoy debugging more than writing code (weird, right? 😄)
 
 ## 🛠️ Technologies & Tools
-![Languages](https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode)
 
-## 📜 Certifications
+![C](https://skillicons.dev/icons?i=c) 
+![C++](https://skillicons.dev/icons?i=cpp) 
+![Python](https://skillicons.dev/icons?i=python) 
+![JavaScript](https://skillicons.dev/icons?i=js)  
+![HTML](https://skillicons.dev/icons?i=html) 
+![CSS](https://skillicons.dev/icons?i=css) 
+![React](https://skillicons.dev/icons?i=react)  
+![Node.js](https://skillicons.dev/icons?i=nodejs) 
+![Firebase](https://skillicons.dev/icons?i=firebase) 
+![MySQL](https://skillicons.dev/icons?i=mysql)  
+![Git](https://skillicons.dev/icons?i=git) 
+![GitHub](https://skillicons.dev/icons?i=github) 
+![VS Code](https://skillicons.dev/icons?i=vscode)
 
-**Career Essentials in Data Analysis by Microsoft & LinkedIn**  
-- Mastered data visualization, Excel, and Power BI  
-- 🔗 [View Certificate](https://www.linkedin.com/learning/certificates/48f13c7acdfa113cd5f6f2f4be05922e23837f3f5adf719f7e0b19b824866e2b)
-
-## 🛠 Technical Skills
-
-- **Languages:** C/C++, Python, JavaScript  
-- **Frontend:** React, HTML, CSS  
-- **Backend:** Node.js, Firebase, WebSockets  
-- **Databases:** Firebase, SQL  
-- **Tools:** Git, VS Code  
-- **Other:** OpenCV, APIs, Data Analysis, Machine Learning  
-- **Operating Systems:** Windows, Linux
+**Also familiar with:** WebSockets, Data Analysis, Machine Learning, APIs
 
 ## 📊 GitHub Stats
-![Nishikant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nishikant090&show_icons=true&theme=github_dark)
 
----
+![Nishikant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nishikant090&show_icons=true&theme=github_dark)
