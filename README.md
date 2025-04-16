@@ -14,6 +14,22 @@ Welcome to my GitHub profile! I'm passionate about learning, building cool tech,
 ## 🛠️ Technologies & Tools
 ![Languages](https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode)
 
+## 📜 Certifications
+
+**Career Essentials in Data Analysis by Microsoft & LinkedIn**  
+- Mastered data visualization, Excel, and Power BI  
+- 🔗 [View Certificate](https://www.linkedin.com/learning/certificates/48f13c7acdfa113cd5f6f2f4be05922e23837f3f5adf719f7e0b19b824866e2b)
+
+## 🛠 Technical Skills
+
+- **Languages:** C/C++, Python, JavaScript  
+- **Frontend:** React, HTML, CSS  
+- **Backend:** Node.js, Firebase, WebSockets  
+- **Databases:** Firebase, SQL  
+- **Tools:** Git, VS Code  
+- **Other:** OpenCV, APIs, Data Analysis, Machine Learning  
+- **Operating Systems:** Windows, Linux
+
 ## 📊 GitHub Stats
 ![Nishikant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nishikant090&show_icons=true&theme=github_dark)
 
