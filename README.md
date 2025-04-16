@@ -13,22 +13,16 @@ Welcome to my GitHub profile! I'm passionate about learning, building cool tech,
 
 ## 🛠️ Technologies & Tools
 
-![C](https://skillicons.dev/icons?i=c) 
-![C++](https://skillicons.dev/icons?i=cpp) 
-![Python](https://skillicons.dev/icons?i=python) 
-![JavaScript](https://skillicons.dev/icons?i=js)  
-![HTML](https://skillicons.dev/icons?i=html) 
-![CSS](https://skillicons.dev/icons?i=css) 
-![React](https://skillicons.dev/icons?i=react)  
-![Node.js](https://skillicons.dev/icons?i=nodejs) 
-![Firebase](https://skillicons.dev/icons?i=firebase) 
-![MySQL](https://skillicons.dev/icons?i=mysql)  
-![Git](https://skillicons.dev/icons?i=git) 
-![GitHub](https://skillicons.dev/icons?i=github) 
-![VS Code](https://skillicons.dev/icons?i=vscode)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nodejs,firebase,mysql,git,github,vscode" alt="Tech Stack Icons" />
+</p>
 
-**Also familiar with:** WebSockets, Data Analysis, Machine Learning, APIs
+<p align="center">
+  <b>Also familiar with:</b> WebSockets, Data Analysis, Machine Learning, APIs
+</p>
 
 ## 📊 GitHub Stats
 
-![Nishikant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nishikant090&show_icons=true&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nishikant090&show_icons=true&theme=github_dark" alt="Nishikant's GitHub Stats" />
+</p>
