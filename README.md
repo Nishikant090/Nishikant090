@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Nishikant+👋;Developer+%7C+Debugger+%7C+Learner+✨;Welcome+to+my+GitHub+Universe!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hey+I'm+Nishikant+%F0%9F%91%8B;Frontend+%2B+Backend+Dev+🌐;Open+Source+Contributor+🌍;Debugging+Ninja+🪛;Let's+Build+Something+Awesome!+🚀" alt="Typing SVG" />
 </p>
+
 
 <h1 align="center">
   <span style="color:#00bfff;">Nishikant</span> 👨‍💻
