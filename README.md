@@ -1,11 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hey+I'm+Nishikant+%F0%9F%91%8B;Frontend+%2B+Backend+Dev+🌐;Open+Source+Contributor+🌍;Debugging+Ninja+🪛;Let's+Build+Something+Awesome!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Nishikant+👋;Full-Stack+Developer+in+progress+🚀;Debugger+%7C+Builder+%7C+Learner+🛠️" alt="Typing SVG" />
 </p>
-
-
-<h1 align="center">
-  <span style="color:#00bfff;">Nishikant</span> 👨‍💻
-</h1>
 
 <p align="center">
   <em>
@@ -54,21 +49,14 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nishikant090&show_icons=true&theme=github_dark&border_radius=10" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishikant090&layout=compact&theme=github_dark&border_radius=10" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishikant090&theme=github-dark-blue&ring=00bfff&fire=00bfff" alt="GitHub Streak" />
 </p>
 
----
-
-## 🔥 GitHub Metrics
-
-> *Enable GitHub Metrics by following [this guide](https://github.com/lowlighter/metrics#-documentation)*
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nishikant090/Nishikant090/main/github-metrics.svg" alt="GitHub Metrics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishikant090&layout=compact&theme=github_dark&border_radius=10" alt="Top Languages" />
 </p>
 
 ---
