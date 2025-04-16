@@ -1,4 +1,16 @@
 <p align="center">
+  <a href="https://portfolio09-5lxk4gstg-nishikant-s-projects.vercel.app" target="_blank">
+    🔗 Check out my Portfolio Website
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://portfolio09-5lxk4gstg-nishikant-s-projects.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel" alt="Portfolio Badge"/>
+  </a>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Nishikant+👋;Full-Stack+Developer+in+progress+🚀;Debugger+%7C+Builder+%7C+Learner+🛠️" alt="Typing SVG" />
 </p>
 
