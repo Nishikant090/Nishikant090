@@ -20,7 +20,7 @@
 - 👯 Open to collaborating on beginner-friendly open-source projects.
 - 💬 Ask me anything about tech, coding journeys, or GitHub!
 - 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/nishikant-650290290) | [Email](mailto:nishikant3745@gmail.com)
-- 🌐 Portfolio: [https://portfolio09-5lxk4gstg-nishikant-s-projects.vercel.app](https://portfolio09-5lxk4gstg-nishikant-s-projects.vercel.app)
+- 🌐 Portfolio: [https://portfolio09-omega.vercel.app/](https://portfolio09-omega.vercel.app/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy debugging more than writing code (seriously 😄)
 
