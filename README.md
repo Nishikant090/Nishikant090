@@ -1,18 +1,14 @@
-**<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Nishikant+👋;Full-Stack+Developer+in+progress+🚀;Debugger+%7C+Builder+%7C+Learner+🛠️" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Nishikant+Kumar+👋;AI%2FML+Engineer+%7C+GenAI+Builder+🤖;Researcher+%7C+Builder+%7C+Problem+Solver+🛠️" alt="Typing SVG" />
 </p>
-
 <p align="center">
   <em>
-    A curious mind ✨ | Code enthusiast 💻 | Debugging addict 🪛
+    Generative AI enthusiast ✨ | ML systems builder 💻 | Post-quantum security researcher 🔐
   </em>
 </p>
-
 <p align="center">
-  🚀 Passionate about learning, building cool tech, and connecting with awesome folks in the dev community.
+  🚀 Building end-to-end ML pipelines, RAG-based LLM apps, and scalable AI systems.
 </p>
-
----
 
 ## 🚀 About Me
 - 🔭 Currently focused on sharpening my development skills.
