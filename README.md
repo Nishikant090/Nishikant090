@@ -10,17 +10,7 @@
   🚀 Building end-to-end ML pipelines, RAG-based LLM apps, and scalable AI systems.
 </p>
 
-## 🚀 About Me
-- 🔭 Currently focused on sharpening my development skills.
-- 🌱 Learning Web Development, JavaScript, and exploring backend tools.
-- 👯 Open to collaborating on beginner-friendly open-source projects.
-- 💬 Ask me anything about tech, coding journeys, or GitHub!
-- 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/nishikant-650290290) | [Email](mailto:nishikant3745@gmail.com)
-- 🌐 Portfolio: [https://portfolio09-omega.vercel.app/](https://portfolio09-omega.vercel.app/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy debugging more than writing code (seriously 😄)
 
----
 
 ## 🛠️ Technologies & Tools
 
