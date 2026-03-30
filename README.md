@@ -1,288 +1,176 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Nishikant+Kumar+👋;AI%2FML+Engineer+%7C+GenAI+Builder+🤖;Researcher+%7C+Builder+%7C+Problem+Solver+🛠️" alt="Typing SVG" />
-</p>
-<p align="center">
-  <em>
-    Generative AI enthusiast ✨ | ML systems builder 💻 | Post-quantum security researcher 🔐
-  </em>
-</p>
-<p align="center">
-  🚀 Building end-to-end ML pipelines, RAG-based LLM apps, and scalable AI systems.
+<div align="center">
+
+<!-- Animated Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:00bfff&height=200&section=header&text=Nishikant%20Kumar&fontSize=60&fontColor=00bfff&fontAlignY=38&desc=AI%20Engineer%20%7C%20GenAI%20Builder%20%7C%20Researcher&descAlignY=60&descColor=a0cfff&animation=fadeIn" />
+
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&height=60&lines=Building+the+future+with+AI+%F0%9F%A4%96;RAG+%7C+LLMs+%7C+GenAI+Systems+%F0%9F%A7%A0;Post-Quantum+Cryptography+Researcher+%F0%9F%94%90;Open+to+Collabs+%26+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+
+<!-- Social Badges -->
+<p>
+  <a href="https://www.linkedin.com/in/nishikant-650290290">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nishikant3745@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://portfolio09-omega.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Nishikant090&style=for-the-badge&color=00bfff&label=PROFILE+VIEWS" />
 </p>
 
-
-
-## 🛠️ Technologies & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nodejs,firebase,mysql,git,github,vscode" alt="Tech Stack Icons" />
-</p>
-
-<p align="center">
-  <b>Also familiar with:</b> WebSockets, Data Analysis, Machine Learning, APIs
-</p>
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
+## ⚡ About Me
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nishikant090&theme=darkhub&margin-w=10&margin-h=15&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
+```python
+class NishikantKumar:
+    def __init__(self):
+        self.name        = "Nishikant Kumar"
+        self.role        = "AI/ML Engineer & GenAI Builder"
+        self.university  = "IIIT Naya Raipur — B.Tech DS & AI"
+        self.research    = ["Post-Quantum Cryptography", "5G/6G Handover Prediction"]
+        self.building    = ["RAG Pipelines", "LLM-powered Apps", "AI Agents"]
+        self.wins        = ["🥇 Hack-a-sol 3.0", "🏅 Top 10 SMACKATHON 2024"]
+        self.pronouns    = "he/him"
+        self.fun_fact    = "I enjoy debugging more than writing code 😄"
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nishikant090&show_icons=true&theme=github_dark&border_radius=10" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishikant090&theme=github-dark-blue&ring=00bfff&fire=00bfff" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishikant090&layout=compact&theme=github_dark&border_radius=10" alt="Top Languages" />
-</p>
-
----
-
-## 👁️‍🗨️ Visitor Counter
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nishikant090&style=flat-square&color=00bfff" alt="Profile Views" />
-</p>
+    def currently(self):
+        return {
+            "research"  : "Deep learning-based handover prediction for 5G/6G",
+            "building"  : "AI-native products & agent workflows",
+            "learning"  : "Agentic AI, LLM fine-tuning, System Design",
+        }
+```
 
 ---
 
-## 🎉 Fun Vibes
+## 🛠️ Tech Arsenal
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coder at Work" />
-</p>
+<div align="center">
 
-<p align="center"><b>Let's build something amazing together! 🚀</b></p>
-**<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Nishikant+Kumar+👋;AI%2FML+Engineer+%7C+GenAI+Builder+🤖;Researcher+%7C+Builder+%7C+Problem+Solver+🛠️" alt="Typing SVG" />
-</p>
+**Languages**
 
-<p align="center">
-  <em>
-    Generative AI enthusiast ✨ | ML systems builder 💻 | Post-quantum security researcher 🔐
-  </em>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-<p align="center">
-  🚀 Building end-to-end ML pipelines, RAG-based LLM apps, and scalable AI systems.
-</p>
+**AI / ML / GenAI**
 
----
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=databricks&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-## 🚀 About Me
+**Frameworks & Tools**
 
-- 🎓 B.Tech in **Data Science & Artificial Intelligence** @ IIIT Naya Raipur
-- 🔭 Currently researching **deep learning-based handover prediction** for 5G/6G networks
-- 🧪 Published research on **Quantum-Resilient Multi-Hop Communication** (SPARCQC 2026, NIT Rourkela)
-- 🤖 Specializing in **Generative AI, RAG systems, LLMs, and recommendation engines**
-- 🏆 **Hack-a-sol 3.0 Winner** | **Top 10 at SMACKATHON 2024**
-- 💬 Ask me about ML pipelines, LangChain, vector databases, or post-quantum cryptography!
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/nishikant-650290290) | [Email](mailto:nishikant3745@gmail.com)
-- 🌐 Portfolio: [portfolio09-omega.vercel.app](https://portfolio09-omega.vercel.app/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy debugging more than writing code (seriously 😄)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
-## 🛠️ Technologies & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,fastapi,react,mysql,git,github,linux,vscode" alt="Tech Stack Icons" />
-</p>
-
-<p align="center">
-  <b>AI/ML:</b> Scikit-learn · Pandas · NumPy · Matplotlib · Seaborn · SHAP · LSTM · AutoML
-</p>
-<p align="center">
-  <b>GenAI:</b> LLMs · LangChain · RAG · Prompt Engineering · ChromaDB · Vector Databases
-</p>
-<p align="center">
-  <b>Systems:</b> FastAPI · REST APIs · Streamlit · MySQL · Power BI
-</p>
+</div>
 
 ---
 
 ## 🔬 Research
 
-| Title | Status | Venue |
-|-------|--------|-------|
-| Quantum-Resilient Multi-Hop Communication using Lattice-Based Cryptography | ✅ Accepted | SPARCQC 2026, NIT Rourkela |
-| Mobility Intelligence for Proactive Handover in 5G/6G Networks | 🔄 In Progress | — |
+<div align="center">
+
+| 📄 Paper | 🏛️ Venue | 🚦 Status |
+|---|---|:---:|
+| **Quantum-Resilient Multi-Hop Communication using Lattice-Based Cryptography** | SPARCQC 2026, NIT Rourkela | ✅ Accepted |
+| **Mobility Intelligence for Proactive Handover Prediction in 5G/6G Networks** | — | 🔄 In Progress |
+
+</div>
 
 ---
 
-## 🧩 Selected Projects
+## 🧩 Featured Projects
 
-### 🔁 [Customer Churn Prediction](https://github.com/Nishikant090) — End-to-End ML Pipeline
-Binary classification pipeline on IBM Telco dataset · ROC-AUC: 0.71 · SHAP explainability · AutoML leaderboard · Streamlit deployment
+<div align="center">
 
-### ✉️ [Cold Email Generator](https://github.com/Nishikant090) — GenAI System
-LLaMA 3.1 · LangChain · ChromaDB · Embedding-based retrieval · Prompt orchestration
+| Project | Stack | Highlights |
+|---|---|---|
+| 🔁 **Customer Churn Prediction** | Scikit-learn · SHAP · AutoML · Streamlit | ROC-AUC: 0.71 · Full ML pipeline · Explainability dashboard |
+| ✉️ **Cold Email Generator** | LLaMA 3.1 · LangChain · ChromaDB | Embedding retrieval · Prompt orchestration · End-to-end GenAI |
+| 🍔 **Gappi – Food Delivery Bot** | Dialogflow · FastAPI · MySQL | Webhook logic · Real-time order management |
+| 🔒 **VS Code Security Extension** | VS Code API · Static Analysis | 🥇 Hack-a-sol 3.0 Winner |
 
-### 🍔 [Gappi – Food Delivery Chatbot](https://github.com/Nishikant090)
-Dialogflow · FastAPI backend · MySQL order management · Webhook-based business logic
-
----
-
-## 🏆 Achievements
-
-- 🥇 **Winner — Hack-a-sol 3.0**: Built a VS Code extension for real-time code analysis and security compliance
-- 🏅 **Top 10 — SMACKATHON 2024**: Developed a healthcare communication workflow platform
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nishikant090&show_icons=true&theme=github_dark&border_radius=10" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishikant090&theme=github-dark-blue&ring=00bfff&fire=00bfff" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishikant090&layout=compact&theme=github_dark&border_radius=10" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nishikant090&theme=darkhub&margin-w=10&margin-h=15&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
-## 👁️‍🗨️ Visitor Counter
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nishikant090&style=flat-square&color=00bfff" alt="Profile Views" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coder at Work" />
-</p>
-<p align="center"><b>Let's build something amazing with AI together! 🚀</b></p><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Nishikant+Kumar+👋;AI%2FML+Engineer+%7C+GenAI+Builder+🤖;Researcher+%7C+Builder+%7C+Problem+Solver+🛠️" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <em>
-    Generative AI enthusiast ✨ | ML systems builder 💻 | Post-quantum security researcher 🔐
-  </em>
-</p>
-
-<p align="center">
-  🚀 Building end-to-end ML pipelines, RAG-based LLM apps, and scalable AI systems.
-</p>
-
----
-
-## 🚀 About Me
-
-- 🎓 B.Tech in **Data Science & Artificial Intelligence** @ IIIT Naya Raipur
-- 🔭 Currently researching **deep learning-based handover prediction** for 5G/6G networks
-- 🧪 Published research on **Quantum-Resilient Multi-Hop Communication** (SPARCQC 2026, NIT Rourkela)
-- 🤖 Specializing in **Generative AI, RAG systems, LLMs, and recommendation engines**
-- 🏆 **Hack-a-sol 3.0 Winner** | **Top 10 at SMACKATHON 2024**
-- 💬 Ask me about ML pipelines, LangChain, vector databases, or post-quantum cryptography!
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/nishikant-650290290) | [Email](mailto:nishikant3745@gmail.com)
-- 🌐 Portfolio: [portfolio09-omega.vercel.app](https://portfolio09-omega.vercel.app/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy debugging more than writing code (seriously 😄)
-
----
-
-## 🛠️ Technologies & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,fastapi,react,mysql,git,github,linux,vscode" alt="Tech Stack Icons" />
-</p>
-
-<p align="center">
-  <b>AI/ML:</b> Scikit-learn · Pandas · NumPy · Matplotlib · Seaborn · SHAP · LSTM · AutoML
-</p>
-<p align="center">
-  <b>GenAI:</b> LLMs · LangChain · RAG · Prompt Engineering · ChromaDB · Vector Databases
-</p>
-<p align="center">
-  <b>Systems:</b> FastAPI · REST APIs · Streamlit · MySQL · Power BI
-</p>
-
----
-
-## 🔬 Research
-
-| Title | Status | Venue |
-|-------|--------|-------|
-| Quantum-Resilient Multi-Hop Communication using Lattice-Based Cryptography | ✅ Accepted | SPARCQC 2026, NIT Rourkela |
-| Mobility Intelligence for Proactive Handover in 5G/6G Networks | 🔄 In Progress | — |
-
----
-
-## 🧩 Selected Projects
-
-### 🔁 [Customer Churn Prediction](https://github.com/Nishikant090) — End-to-End ML Pipeline
-Binary classification pipeline on IBM Telco dataset · ROC-AUC: 0.71 · SHAP explainability · AutoML leaderboard · Streamlit deployment
-
-### ✉️ [Cold Email Generator](https://github.com/Nishikant090) — GenAI System
-LLaMA 3.1 · LangChain · ChromaDB · Embedding-based retrieval · Prompt orchestration
-
-### 🍔 [Gappi – Food Delivery Chatbot](https://github.com/Nishikant090)
-Dialogflow · FastAPI backend · MySQL order management · Webhook-based business logic
+</div>
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 **Winner — Hack-a-sol 3.0**: Built a VS Code extension for real-time code analysis and security compliance
-- 🏅 **Top 10 — SMACKATHON 2024**: Developed a healthcare communication workflow platform
+<div align="center">
+
+🥇 **Hack-a-sol 3.0 Winner** — Built a VS Code extension for real-time code analysis & security compliance
+
+🏅 **Top 10 @ SMACKATHON 2024** — Developed a healthcare communication workflow platform
+
+📜 **Research Published @ NIT Rourkela** — Post-quantum cryptography (SPARCQC 2026)
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nishikant090&show_icons=true&theme=github_dark&border_radius=10" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishikant090&theme=github-dark-blue&ring=00bfff&fire=00bfff" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishikant090&layout=compact&theme=github_dark&border_radius=10" alt="Top Languages" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nishikant090&show_icons=true&theme=github_dark&border_radius=12&border_color=00bfff&title_color=00bfff&icon_color=00bfff" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishikant090&layout=compact&theme=github_dark&border_radius=12&border_color=00bfff&title_color=00bfff" height="170" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishikant090&theme=github-dark-blue&ring=00bfff&fire=00bfff&currStreakLabel=00bfff&border=00bfff&border_radius=12" />
+
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nishikant090&theme=darkhub&margin-w=10&margin-h=15&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nishikant090&theme=darkhub&margin-w=8&margin-h=8&no-frame=false&column=7&row=1" />
+</div>
 
 ---
 
-## 👁️‍🗨️ Visitor Counter
+## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nishikant090&style=flat-square&color=00bfff" alt="Profile Views" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishikant090&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=false&border_color=00bfff&radius=8" />
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coder at Work" />
-</p>
-<p align="center"><b>Let's build something amazing with AI together! 🚀</b></p>
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nishikant090/Nishikant090/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nishikant090/Nishikant090/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Nishikant090/Nishikant090/output/github-snake.svg" />
+  </picture>
+</div>
+
+> ⚠️ **Snake setup:** Go to **Actions → snake-animation** in your profile repo and run it. [Setup guide →](https://github.com/Platane/snk)
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,100:0d1117&height=120&section=footer&text=Let's+build+something+amazing+%F0%9F%9A%80&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+
+</div>
