@@ -165,7 +165,7 @@ class NishikantKumar:
   </picture>
 </div>
 
-> ⚠️ **Snake setup:** Go to **Actions → snake-animation** in your profile repo and run it. [Setup guide →](https://github.com/Platane/snk)
+> 
 
 ---
 
